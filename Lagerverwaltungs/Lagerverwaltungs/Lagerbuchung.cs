@@ -8,5 +8,9 @@ namespace Lagerverwaltungs
 {
     internal class Lagerbuchung
     {
+        public Lagerbuchung() 
+        {
+            
+        }
     }
 }
