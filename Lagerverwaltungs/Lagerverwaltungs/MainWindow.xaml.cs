@@ -24,5 +24,10 @@ namespace Lagerverwaltungs
         {
             InitializeComponent();
         }
+
+        private void Neu_Click(object sender, RoutedEventArgs e)
+        {
+            vm.NeuerArtikel();
+        }
     }
 }

@@ -11,20 +11,24 @@
       "RelativeMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|solutionrelative:lagerverwaltungs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|D:\\C#\\Projekt\\Lagerverwaltungs\\lagerverwaltungs\\artikel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|solutionrelative:lagerverwaltungs\\artikel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|D:\\C#\\Projekt\\Lagerverwaltungs\\lagerverwaltungs\\viewmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|solutionrelative:lagerverwaltungs\\viewmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|d:\\c#\\projekt\\lagerverwaltungs\\lagerverwaltungs\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|solutionrelative:lagerverwaltungs\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|D:\\C#\\Projekt\\Lagerverwaltungs\\lagerverwaltungs\\lagerbuchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|solutionrelative:lagerverwaltungs\\lagerbuchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|D:\\C#\\Projekt\\Lagerverwaltungs\\lagerverwaltungs\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|solutionrelative:lagerverwaltungs\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|D:\\C#\\Projekt\\Lagerverwaltungs\\lagerverwaltungs\\artikel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|solutionrelative:lagerverwaltungs\\artikel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|D:\\C#\\Projekt\\Lagerverwaltungs\\lagerverwaltungs\\viewmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|solutionrelative:lagerverwaltungs\\viewmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|D:\\C#\\Projekt\\Lagerverwaltungs\\lagerverwaltungs\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB26D9DC-30F4-4B70-9DAE-1BBFA183DB87}|Lagerverwaltungs\\Lagerverwaltungs.csproj|solutionrelative:lagerverwaltungs\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,59 +64,72 @@
               "RelativeDocumentMoniker": "Lagerverwaltungs\\MainWindow.xaml.cs",
               "ToolTip": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\MainWindow.xaml.cs",
               "RelativeToolTip": "Lagerverwaltungs\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-17T08:40:09.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ViewModell.cs",
               "DocumentMoniker": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\ViewModell.cs",
               "RelativeDocumentMoniker": "Lagerverwaltungs\\ViewModell.cs",
               "ToolTip": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\ViewModell.cs",
               "RelativeToolTip": "Lagerverwaltungs\\ViewModell.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAGIAAAAAAAAAAADwv3MAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-17T09:26:29.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Artikel.cs",
-              "DocumentMoniker": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\Artikel.cs",
-              "RelativeDocumentMoniker": "Lagerverwaltungs\\Artikel.cs",
-              "ToolTip": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\Artikel.cs",
-              "RelativeToolTip": "Lagerverwaltungs\\Artikel.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBAAAAAWAAAA",
+              "DocumentIndex": 3,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\Controller.cs",
+              "RelativeDocumentMoniker": "Lagerverwaltungs\\Controller.cs",
+              "ToolTip": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\Controller.cs",
+              "RelativeToolTip": "Lagerverwaltungs\\Controller.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-17T09:27:19.693Z",
+              "WhenOpened": "2026-07-24T22:32:11.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Lagerbuchung.cs",
               "DocumentMoniker": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\Lagerbuchung.cs",
               "RelativeDocumentMoniker": "Lagerverwaltungs\\Lagerbuchung.cs",
               "ToolTip": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\Lagerbuchung.cs",
               "RelativeToolTip": "Lagerverwaltungs\\Lagerbuchung.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-17T09:27:35.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Artikel.cs",
+              "DocumentMoniker": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\Artikel.cs",
+              "RelativeDocumentMoniker": "Lagerverwaltungs\\Artikel.cs",
+              "ToolTip": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\Artikel.cs",
+              "RelativeToolTip": "Lagerverwaltungs\\Artikel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T09:27:19.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DB.cs",
               "DocumentMoniker": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\DB.cs",
               "RelativeDocumentMoniker": "Lagerverwaltungs\\DB.cs",
               "ToolTip": "D:\\C#\\Projekt\\Lagerverwaltungs\\Lagerverwaltungs\\DB.cs",
               "RelativeToolTip": "Lagerverwaltungs\\DB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDEAAACUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-17T09:26:52.399Z",
               "EditorCaption": ""
